@@ -12,6 +12,8 @@
 4. 결론
 ```
 
+ ![Preview Video is here!!](24.12.10 preview.mp4)
+
 ---
 
 # 들어가며
