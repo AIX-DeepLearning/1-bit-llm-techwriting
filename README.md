@@ -12,7 +12,7 @@
 4. 결론
 ```
 
- ![Preview Video is here!!](24.12.10 preview.mp4)
+요약 영상은 해당 링크에 업로드해두었습니다!! : https://github.com/AIX-DeepLearning/1-bit-llm-techwriting/blob/main/24.12.10%20preview.mp4
 
 ---
 
